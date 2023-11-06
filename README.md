@@ -1,4 +1,6 @@
-Howdy, it's DutraTV
+Hey, it's Dutra.
+
+Club Penguin enthusiast, working on a few things.
 
 <!---
 DutraTV/DutraTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
